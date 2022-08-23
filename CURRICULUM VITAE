@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Curriculum Vitae </title>
+</head>
+
+<body>
+
+	<style>
+		#principal{
+			border: solid 1px black;
+			width: 80%;
+			margin: 0 auto;
+		}
+
+		#mifoto{
+			margin: 1px;
+			border: solid 4px black;
+		}
+	</style>
+
+<div id="principal">
+	<img src="Foto.jpg" id="mifoto" width="250px"height:="150px" alingn="left">
+	<h2>Ricardo Diaz Moreno</h2>
+	
+	<fieldset>
+		<legend><h2>Contact information</h2></legend>
+		<ul>
+			<li>Phone Number:3356643567</li>
+			<li>Age:22</li>
+			<li>Nationality:Mexican</li>
+		</ul>
+	</fieldset>
+
+	<fieldset>
+		<legend> <h2>Grade of schooling</h2></legend>
+		<ul>
+			<li>last grade studied: middle school and high school</li>
+			<li>study grade:University</li>
+			<li>Nationality:Mexican</li>
+		</ul>
+	</fieldset>
+
+	<fieldset>
+		<legend><h2> Skills</h2></legend>
+		<ul>
+			<li>Responsability 100%</li>
+			<li>Attentive 100%</li>
+			<li>Efficient 100%</li>
+		</ul>	
+	</fieldset>
+
+     <fieldset>
+		<legend><h2> Work experience</h2></legend>
+		<ul>
+			<li>scholarship holder in Cosbiome</li>
+		</ul>	
+	</fieldset>
+
+
+	<fieldset>
+		<legend><h2> Experience in project</h2></legend>
+		<ul>
+			<li>I work in school projects of database creation, server administration and web page creation.</li>
+		</ul>	
+	</fieldset>
+
+	<fieldset>
+		<legend><h2> Professional interests</h2></legend>
+		<ul>
+			<li>cybersecurity , server administration and maintenance </li>
+			
+		</ul>	
+	</fieldset>
+
+	<fieldset>
+		<legend><h2> Software you know </h2></legend>
+		<ul>
+			<li>postgresql 40%</li>
+			<li>Debian 30%</li>
+			<li>excel 30%</li>
+		</ul>	
+	</fieldset>
+
+	<fieldset>
+		<legend><h2> languages</h2></legend>
+		<ul>
+			<li>Spanish 100%</li>
+			<li>English 50%</li>
+		</ul>	
+	</fieldset>
+
+	<fieldset>
+		<legend><h2> personal references</h2></legend>
+		<ul>
+			<li>I am writing this reference in support of Ricado Diaz Moreno.
+            Ricado Diaz Moreno has been my friend for 7 years and, since then, we are very good friends. It has been about 10 years since then and in this time I have discovered in Ricardo a kind, friendly but also intelligent and talented person.</li>
+			<li>Ricardo Diaz Moreno is an efficient, honest and punctual person. On many occasions he performs and completes the work ahead of schedule, making it excellent.</li>
+		</ul>	
+	</fieldset>
+
+</div>
+
+</body>
+</html>
